@@ -1,2 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<Info Type="Shutdown" Visible="0" Icon="" File="ProjectUtils/shutDownProject.m" Name="shutDownProject" />
+<Info Type="Shutdown" Visible="0" Icon="" File="ProjectUtils/shutDownProject.m" Name="shutDownProject">
+    <Extension Value="63ed759e-13be-473c-bc4a-0abfc41529dd" Name="ShutdownPrev" />
+</Info>
